@@ -9,7 +9,7 @@ I am Joshua Fil V. Evasco, a 2nd Year Bachelor of Science in Information Technol
 - Currently serving as one of the SSC Representatives of CCIS Student Council 👯👯
 - Currently serving as the Events Staff Manager of the Mapúa Malayan Colleges Laguna - Supreme Student Council. 🧑‍🎓🧑‍🎓
 - A tinkerer (usually breaks open and fixes stuff) 🔧🔧
-- Semi-daily drives Linux (Kali Linux), Windows (tiny10), and macOS (Sonoma) on one HP ProBook 440 G4 Laptop (BAre metal, no Virtualization) 💻
+- Semi-daily drives Linux (Kali Linux), Windows (tiny10), and macOS (Sonoma) on one HP ProBook 440 G4 Laptop (Bare metal, no Virtualization) 💻
 - Survivor of Data Structures and Algorithms Analysis 🥹
 
 ##  Reach out via ☎️☎️:
